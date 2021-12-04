@@ -1,4 +1,4 @@
-<img title="Thank you KOKSSMA" align="right" src="koksma_xvk3_motm_green.png" width="200"/>
+<img title="Thank you KOKSMA" align="right" src="koksma_xvk3_motm_green.png" width="200"/>
 
 ### I'm Mich
 
