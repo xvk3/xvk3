@@ -7,8 +7,8 @@
 - 🖥️ Windows
 - 💻 Kubuntu
 - ☎️ Android & Termux
-- 🎮 Dark Souls Remastered, OSRS, Chess
+- 🎮 Diablo 2: Resurrected, Octopath, Chess
 - 🎵 It's complicated
-- 🧠 x86_64 NASM, C, Python3, PHP, REXX
+- 🧠 x86_64 NASM, C, C++, Python3, PHP, REXX
 - 📚 Epictetus, Voltaire, John W Campbell, Stanislaw Lem
 - 🤔 Cosmology, Abiogenesis, Economics, Metaphysics
